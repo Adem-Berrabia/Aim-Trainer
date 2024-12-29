@@ -50,6 +50,7 @@
 
 ## Technologies Used 🛠️
 - **Python**: Core programming language.
+- **Pygame**: Used for game mechanics, rendering, and event handling.
 
 ## Author : Adem Berrabia
 
